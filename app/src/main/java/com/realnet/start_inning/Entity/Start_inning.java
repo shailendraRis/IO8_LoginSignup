@@ -1,0 +1,29 @@
+package com.realnet.start_inning.Entity;
+ import lombok.*;
+import com.realnet.WhoColumn.Extension; 
+ import javax.persistence.*;
+ import java.time.LocalDateTime;
+ import java.util.*;
+
+ @Entity 
+ @Data
+ public class    Start_inning extends Extension { 
+ /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+ @Id
+ @GeneratedValue(strategy = GenerationType.IDENTITY)
+ private Integer id;
+
+private String select_match;
+
+private String select_team;
+
+private String select_player;
+
+private String datetime_field;
+
+
+}

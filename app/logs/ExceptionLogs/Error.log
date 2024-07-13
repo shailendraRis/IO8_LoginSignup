@@ -1,0 +1,58 @@
+2023-04-07T15:38:10.368+0530  ERROR Login Failed No value present
+2023-04-14T12:20:09.761+0530  ERROR Login Failed No value present
+2023-04-14T12:40:11.030+0530  ERROR Login Failed No value present
+2023-04-14T12:43:04.245+0530  ERROR Login Failed No value present
+2023-04-14T12:43:18.179+0530  ERROR Login Failed No value present
+2023-04-14T12:47:15.982+0530  ERROR Login Failed No value present
+2023-04-14T12:47:47.907+0530  ERROR Login Failed No value present
+2023-04-14T12:49:20.899+0530  ERROR Login Failed No value present
+2023-04-14T12:49:39.712+0530  ERROR Login Failed No value present
+2023-04-14T12:49:54.172+0530  ERROR Login Failed No value present
+2023-04-14T12:49:56.507+0530  ERROR Login Failed No value present
+2023-04-14T12:49:59.471+0530  ERROR Login Failed No value present
+2023-04-14T13:06:48.375+0530  ERROR Login Failed No value present
+2023-04-14T14:17:17.959+0530  ERROR Login Failed No value present
+2023-04-14T14:19:17.702+0530  ERROR Login Failed No value present
+2023-04-14T14:24:27.427+0530  ERROR Login Failed No value present
+2023-04-14T14:24:34.106+0530  ERROR Login Failed No value present
+2023-04-14T14:24:59.329+0530  ERROR Login Failed No value present
+2023-04-14T15:45:42.775+0530  ERROR Login Failed No value present
+2023-04-14T18:27:38.701+0530  ERROR Login Failed Bad credentials
+2023-09-29T12:37:11.138+0530  ERROR Login Failed Bad credentials
+2023-09-29T23:54:39.748+0530  ERROR Login Failed Bad credentials
+2023-10-21T16:34:16.901+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-10-21T16:34:16.905+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-10-21T16:34:17.029+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-10-21T16:34:17.029+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-10-21T16:34:17.029+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-10-21T16:34:17.046+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-10-21T16:34:46.579+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-11-03T10:51:17.798+0530  ERROR Login Failed Bad credentials
+2023-11-03T12:48:05.904+0530  ERROR Login Failed Error creating bean with name 'inMemoryDatabaseShutdownExecutor': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2023-11-20T19:33:52.278+0530  ERROR Login Failed Bad credentials
+2023-11-29T12:24:44.472+0530  ERROR Login Failed Bad credentials
+2023-11-30T10:02:24.935+0530  ERROR Login Failed Bad credentials
+2023-12-02T17:12:48.378+0530  ERROR Login Failed Bad credentials
+2023-12-02T17:19:07.149+0530  ERROR Login Failed Bad credentials
+2023-12-04T19:36:38.738+0530  ERROR Login Failed No value present
+2023-12-04T19:36:48.189+0530  ERROR Login Failed No value present
+2023-12-04T23:47:26.784+0530  ERROR Login Failed Bad credentials
+2023-12-04T23:53:25.084+0530  ERROR Login Failed Bad credentials
+2023-12-20T22:55:47.256+0530  ERROR Login Failed Unable to acquire JDBC Connection; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
+2023-12-20T22:55:47.257+0530  ERROR Login Failed Unable to acquire JDBC Connection; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
+2023-12-29T17:03:49.832+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-12-29T17:03:49.833+0530  ERROR Authentication Failed. Username or Password not valid.
+2023-12-29T23:27:43.701+0530  ERROR Authentication Failed. Username or Password not valid.
+2024-01-19T12:37:10.085+0530  ERROR Login Failed Bad credentials
+2024-01-19T12:37:10.148+0530  ERROR Login Failed Bad credentials
+2024-01-24T13:19:39.329+0530  ERROR Login Failed Error creating bean with name 'inMemoryDatabaseShutdownExecutor': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2024-02-17T14:23:36.971+0530  ERROR URI is not absolute
+2024-02-17T14:46:15.780+0530  ERROR Login Failed Bad credentials
+2024-02-17T14:46:20.039+0530  ERROR Login Failed Bad credentials
+2024-02-17T14:46:36.122+0530  ERROR URI is not absolute
+2024-02-17T16:40:35.884+0530  ERROR URI is not absolute
+2024-03-20T19:44:18.950+0530  ERROR URI is not absolute
+2024-03-20T20:05:52.093+0530  ERROR URI is not absolute
+2024-03-20T20:14:30.563+0530  ERROR URI is not absolute
+2024-04-09T09:26:57.975+0530  ERROR I/O error on GET request for "http://43.205.154.152:30179/entityBuilder/Gaurav_testing/3": Operation timed out (Connection timed out); nested exception is java.net.ConnectException: Operation timed out (Connection timed out)
+2024-04-09T09:26:58.620+0530  ERROR I/O error on GET request for "http://43.205.154.152:30179/entityBuilder/Gaurav_testing": Operation timed out (Connection timed out); nested exception is java.net.ConnectException: Operation timed out (Connection timed out)

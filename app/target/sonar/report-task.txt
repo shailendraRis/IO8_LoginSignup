@@ -1,0 +1,6 @@
+projectKey=authsec-spring-boot
+serverUrl=http://13.232.138.21:9000
+serverVersion=10.4.0.87286
+dashboardUrl=http://13.232.138.21:9000/dashboard?id=authsec-spring-boot
+ceTaskId=f2f7c914-db27-431f-a6ba-1a2fe53b793b
+ceTaskUrl=http://13.232.138.21:9000/api/ce/task?id=f2f7c914-db27-431f-a6ba-1a2fe53b793b
